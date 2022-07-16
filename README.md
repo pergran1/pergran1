@@ -1,6 +1,6 @@
 
 
-<h1 align="center">🎺 Hello visitor!I'm Per Granberg</h1>
+<h1 align="center">🎺 Welcome to the profile off me, Per Granberg! 👨</h1>
 <h3 align="center">Data analyst learning more about the cloud and big data</h3>
 
 
