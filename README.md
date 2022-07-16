@@ -18,3 +18,16 @@ I am intreated in learning and develop more into data engineering and database m
 - 🌱 I’m currently learning **AWS, ETL**
 
 
+
+## Fanfiction project with Airflow and PostgreSQL and AWS
+
+
+## Dashboards made using R and Flexdashboards
+
+
+
+## Projects analyzing data with **R**
+These are some of the procjects that I made some years ago in R. These projects bring back fun memories 
+
+
+## Excel VBA projects
