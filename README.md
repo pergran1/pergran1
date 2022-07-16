@@ -24,9 +24,9 @@ I am intreated in learning and develop more into data engineering and database m
 
 ## Dashboards made using R and Flexdashboards
 
-The two links below are to dashboards created in **R**👨‍💻 using the packages **Shiny and Flexdashboard**. I have a huge experience with creating dashbords with **Superset, Qlik and data studio**
+The two links below are to dashboards created in **R** 👨‍💻 using the packages **Shiny and Flexdashboard**. I have a huge experience with creating dashbords with **Superset, Qlik and data studio**
 
-#### [Tweets about the Swedish Tax Agency, “Skatteverket”](https://pergranberg.shinyapps.io/skvtwitter1/)
+### [Tweets about the Swedish Tax Agency, “Skatteverket”](https://pergranberg.shinyapps.io/skvtwitter1/)
 ![tax](skatteverket.png)
 
 One of my first workplaces was at the Swedish tax agency. I was intrested in extracting how the swedish people write about the tax agency, would it be with hate? love? satisfaction? scandals? 
@@ -34,6 +34,12 @@ One of my first workplaces was at the Swedish tax agency. I was intrested in ext
 I used Python and R in this project. Python was used to download around 42 000 old tweets that mentions “Skatteverket”, I was able to do this by using the package [GetOldTweets3](https://pypi.org/project/GetOldTweets3/) in Python.
 
 I used R and the package Rtweet to download data from the official account of Skatteverket. Rtweet can download every tweet from a twitter account and was therefore perfect to use when analyzing the account of Skatteverket.
+
+###[Figure Skating](https://pergranberg.shinyapps.io/testarskate/)
+
+One of friends was active in figure skating and I noticed that he was on a website that have much data concerning mukltiple figure skating competitions and competitors. So I figured it would be fun to use Python to scrape the data and vizulise it in a dashboard. 
+
+This project is very sentimental to me becuase it was the first one where I used Python to webscrape and I remeber how fun it was to see and collect data from a website! So this is where it all started ☺️
 
 
 ## Projects analyzing data with **R**
