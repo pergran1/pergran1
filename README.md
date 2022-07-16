@@ -6,5 +6,5 @@
 - Some of the projects that I have been doing lately is regarding web scraping Fanfiction data and store the data in a database. I have been using Redshift in AWS but also a PostgreSQL so I can try different approaches on each database.
 - 🌱 I’m currently learning **AWS, ETL**
 
-
+![](pixelper.png)
 
