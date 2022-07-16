@@ -38,7 +38,7 @@ I used R and the package Rtweet to download data from the official account of Sk
 ### [Figure Skating](https://pergranberg.shinyapps.io/testarskate/)
 ![figure](figureskating.png)
 
-One of friends was active in figure skating and I noticed that he was on a website that have much data concerning mukltiple figure skating competitions and competitors. So I figured it would be fun to use Python to scrape the data and vizulise it in a dashboard. 
+One of friends was active in figure skating and I noticed that he was on a [website](http://www.rinkresults.com/list-skaters) that have much data concerning multiple figure skating competitions and competitors. So I figured it would be fun to use Python to scrape the data and vizulise it in a dashboard. 
 
 This project is very sentimental to me becuase it was the first one where I used Python to webscrape and I remeber how fun it was to see and collect data from a website! So this is where it all started ☺️
 
