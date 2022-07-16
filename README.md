@@ -24,7 +24,7 @@ I am intreated in learning and develop more into data engineering and database m
 
 ## Dashboards made using R and Flexdashboards
 
-#### [Tweets about the Swedish Tax Agency, “Skatteverket”(https://pergranberg.shinyapps.io/skvtwitter1/)
+#### [Tweets about the Swedish Tax Agency, “Skatteverket”](https://pergranberg.shinyapps.io/skvtwitter1/)
 One of my first workplaces was at the Swedish tax agency. I was intrested 
 
 
