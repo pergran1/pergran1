@@ -1,11 +1,10 @@
 
 
+<!--
 <h1 align="center">🎺 Welcome to the profile off me, Per Granberg! 🌞 
 <h3 align="center">A data analyst learning more about the cloud and big data</h3>
 </h1>
-
-
-![title2](titleimage2.png)
+-->
 
 ![title](titleimage.png)
 
