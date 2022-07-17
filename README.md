@@ -53,7 +53,7 @@ The fantastic and fun Lund University was where I studied my master in finance a
 [Trends and Analysis of Suicide from WHO](https://pergranberg.netlify.app/post/suicidedata/) <br>
 Here I analyzed public data on suicides taken from WHO. It was one intresting topic which is always relevant. Learned a lot about making plots. 
 
-[Analyzing the Rise and Trends of Japanese Anime]([Analyzing the Rise and Trends of Japanese Anime)](https://pergranberg.netlify.app/post/anime/) <br>
+[Analyzing the Rise and Trends of Japanese Anime](https://pergranberg.netlify.app/post/anime/) <br>
 By using public data from Kaggle I analyzed data concerning users that watch anime, which is japanese cartoons. 
 
 [Who Plays and Makes Levels in the Nintendo Game Mario Maker?](https://pergranberg.netlify.app/post/mario-maker-analysis/) <br>
