@@ -21,6 +21,7 @@ I am intreated in learning and develop more into data engineering and database m
 
 ## Fanfiction project with Airflow and PostgreSQL and AWS
 
+Write about web scraping, airflow and KPIs, aws and database
 
 ## Dashboards made using R and Flexdashboards
 
@@ -61,5 +62,3 @@ I grow up playing Nintendo games so of course I had to analyze data for the game
 
 [Classifying bank customers with Log, Net and Tree](https://pergranberg.netlify.app/post/bankmarketing/) <br>
 This was a short project made in Lund University, my task was to try different approaches to classify customers that would default loans. The data is public and was taken from Kaggle. 
-
-## Excel VBA projects
