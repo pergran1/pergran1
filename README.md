@@ -36,6 +36,9 @@ I used Python and R in this project. Python was used to download around 42 000 o
 I used R and the package Rtweet to download data from the official account of Skatteverket. Rtweet can download every tweet from a twitter account and was therefore perfect to use when analyzing the account of Skatteverket.
 
 ### [Figure Skating](https://pergranberg.shinyapps.io/testarskate/)
+![figuregif](skatinggif.gif)
+
+
 ![figure](figureskating.png)
 
 One of friends was active in figure skating and I noticed that he was on a [website](http://www.rinkresults.com/list-skaters) that have much data concerning multiple figure skating competitions and competitors. So I figured it would be fun to use Python to scrape the data and vizulise it in a dashboard. 
