@@ -27,7 +27,7 @@ I am intreated in learning and develop more into data engineering and database m
 The two links below are to dashboards created in **R** 👨‍💻 using the packages **Shiny and Flexdashboard**. I have a huge experience with creating dashbords with **Superset, Qlik and data studio**
 
 ### [Tweets about the Swedish Tax Agency, “Skatteverket”](https://pergranberg.shinyapps.io/skvtwitter1/)
-![tax](skatteverket.png)
+![tax](skvtweets.gif)
 
 One of my first workplaces was at the Swedish tax agency. I was intrested in extracting how the swedish people write about the tax agency, would it be with hate? love? satisfaction? scandals? 
 
@@ -37,9 +37,6 @@ I used R and the package Rtweet to download data from the official account of Sk
 
 ### [Figure Skating](https://pergranberg.shinyapps.io/testarskate/)
 ![figuregif](skatinggif.gif)
-
-
-![figure](figureskating.png)
 
 One of friends was active in figure skating and I noticed that he was on a [website](http://www.rinkresults.com/list-skaters) that have much data concerning multiple figure skating competitions and competitors. So I figured it would be fun to use Python to scrape the data and vizulise it in a dashboard. 
 
