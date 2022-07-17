@@ -19,9 +19,15 @@ I am intreated in learning and develop more into data engineering and database m
 
 
 
-## Fanfiction project with Airflow and PostgreSQL and AWS
+# Fanfiction project with Airflow and PostgreSQL and AWS
 
 Write about web scraping, airflow and KPIs, aws and database
+
+### Endpoint for dirty text classification and streamlit app
+
+[Endpoint for textclassification](https://dirty-text-classification.herokuapp.com/docs#/)
+
+[Streamlit app for text classification](https://pergran1-streamlit-app-for-text-classification-app-8asu6b.streamlitapp.com/)
 
 ## Dashboards made using R and Flexdashboards
 
