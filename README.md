@@ -46,5 +46,8 @@ This project is very sentimental to me becuase it was the first one where I used
 ## Projects analyzing data with **R**
 These are some of the procjects that I made some years ago in R. These projects bring back fun memories 
 
+[Lund University and the data of published theses](https://pergranberg.netlify.app/post/lund/) 
+The fantastic and fun Lund University was where I studied my master in finance and also statistics. 
+
 
 ## Excel VBA projects
