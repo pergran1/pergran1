@@ -61,4 +61,5 @@ I grow up playing Nintendo games so of course I had to analyze data for the game
 
 [Classifying bank customers with Log, Net and Tree](https://pergranberg.netlify.app/post/bankmarketing/) <br>
 This was a short project made in Lund University, my task was to try different approaches to classify customers that would default loans. The data is public and was taken from Kaggle. 
+
 ## Excel VBA projects
