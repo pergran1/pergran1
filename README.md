@@ -1,7 +1,7 @@
 
 
 <!--
-<h1 align="center">🎺 Welcome to the profile off me, Per Granberg! 🌞 
+<h1 align="center">🎺 Welcome to the profile of me, Per Granberg! 🌞 
 <h3 align="center">A data analyst learning more about the cloud and big data</h3>
 </h1>
 -->
