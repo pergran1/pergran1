@@ -18,7 +18,7 @@ I am interested in learning and develop more into data engineering and database 
 
 - 🌱 I’m currently learning **AWS, ETL**
 
-
+[comment]: <> (Link for themes for stats: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pergran1&show_icons=true&theme=radical)
 
 
