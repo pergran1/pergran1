@@ -19,6 +19,8 @@ I am interested in learning and develop more into data engineering and database 
 - 🌱 I’m currently learning **AWS, ETL**
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pergran1&show_icons=true&theme=radical)
+
 
 # Fanfiction project with Airflow and PostgreSQL and AWS
 
