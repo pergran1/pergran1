@@ -10,7 +10,10 @@
 
 ## About me
 
+
 I am interested in learning and develop more into data engineering and database management! I have a great understanding on how to analyze and manage data using **Python, R, SQL and Excel VBA.**
+
+But the things that I have a passion for now is ETL pipelines, data in the cloud and learning Scala and Java. 
 
 
 - Some of the projects that I have been doing lately is regarding web scraping Fanfiction data and store the data in a database. I have been using Redshift in AWS but also a PostgreSQL so I can try different approaches on each database
@@ -19,7 +22,7 @@ I am interested in learning and develop more into data engineering and database 
 - 🌱 I’m currently learning **AWS, ETL**
 
 [comment]: <> (Link for themes for stats: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pergran1&show_icons=true&theme=radical)
+[comment]: <> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pergran1&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pergran1&layout=compact)](https://github.com/pergran1/github-readme-stats)
 
