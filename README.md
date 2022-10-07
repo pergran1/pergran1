@@ -16,10 +16,11 @@ I am interested in learning and develop more into data engineering and database 
 But the things that I have a passion for now is ETL pipelines, data in the cloud and learning Scala and Java. 
 
 
-- Some of the projects that I have been doing lately is regarding web scraping Fanfiction data and store the data in a database. I have been using Redshift in AWS but also a PostgreSQL so I can try different approaches on each database
+- One of the big projects I have been working on lately is to develop an entire ETL pipeline by web scraping Fanfiction data and store the data in a database. I have been using Redshift in AWS but also a PostgreSQL database so I can try different approaches on each database. I also used Airflow and AWS Lambda to automatically download the data.
 
 
-- 🌱 I’m currently learning **AWS, ETL**
+
+- 📖 I’m currently learning **AWS, Glue, Scala and Java**
 
 [comment]: <> (Link for themes for stats: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
 <!--- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pergran1&show_icons=true&theme=radical) --->
@@ -51,7 +52,7 @@ I used Python and R in this project. Python was used to download around 42 000 o
 I used R and the package Rtweet to download data from the official account of Skatteverket. Rtweet can download every tweet from a twitter account and was therefore perfect to use when analyzing the account of Skatteverket.
 
 ### [Figure Skating](https://pergranberg.shinyapps.io/testarskate/)
-![figuregif](skatinggif.gif)
+<!---  ![figuregif](skatinggif.gif) --->
 
 One of friends was active in figure skating and I noticed that he was on a [website](http://www.rinkresults.com/list-skaters) that have much data concerning multiple figure skating competitions and competitors. So I figured it would be fun to use Python to scrape the data and vizulise it in a dashboard. 
 
