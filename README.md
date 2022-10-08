@@ -38,6 +38,7 @@ But the things that I have a passion for now is ETL pipelines, data in the cloud
 # Fanfiction project with Airflow and PostgreSQL and AWS
 
 This is a very fun project that showcase some of my knowledge about database, sql, Airflow and AWS. A short summery is that I web scrape fanfiction data and calculate KPIs using two different methods. 
+
 **This project can be viewed here:** [Fanfiction project](https://github.com/pergran1/Airflow-fanfiction-get-data-and-KPIs)
 
 <br>
