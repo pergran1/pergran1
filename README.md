@@ -28,6 +28,7 @@ But the things that I have a passion for now is ETL pipelines, data in the cloud
 <br>
 
 **Most used languages on Github:**
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pergran1&layout=compact)](https://github.com/pergran1/github-readme-stats)
 
 
