@@ -52,8 +52,7 @@ Another side project I did using the fanfiction data was to create a classificat
 
 **The streamlit app is here:**[Streamlit app for text classification](https://pergran1-streamlit-app-for-text-classification-app-8asu6b.streamlitapp.com/)
 
-
-
+<br>
 
 # Dashboards made using R and Flexdashboards
 
@@ -68,6 +67,7 @@ I used Python and R in this project. Python was used to download around 42 000 o
 
 I used R and the package Rtweet to download data from the official account of Skatteverket. Rtweet can download every tweet from a twitter account and was therefore perfect to use when analyzing the account of Skatteverket.
 
+<br>
 
 ### [Figure Skating](https://pergranberg.shinyapps.io/testarskate/)
 <!---  ![figuregif](skatinggif.gif) --->
@@ -76,7 +76,7 @@ One of friends was active in figure skating and I noticed that he was on a [webs
 
 This project is very sentimental to me because it was the first one where I used Python to web scrape and I remember how fun it was to see and collect data from a website! So, this is where it all started ☺️
 
-
+<br>
 
 # Projects analyzing data with **R**
 These are some of the projects that I made some years ago in R. These projects bring back fun memories 
