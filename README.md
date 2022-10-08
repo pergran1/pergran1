@@ -25,6 +25,9 @@ But the things that I have a passion for now is ETL pipelines, data in the cloud
 [comment]: <> (Link for themes for stats: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md)
 <!--- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pergran1&show_icons=true&theme=radical) --->
 
+<br>
+
+**Most used languages on Github:**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pergran1&layout=compact)](https://github.com/pergran1/github-readme-stats)
 
 
@@ -33,12 +36,14 @@ But the things that I have a passion for now is ETL pipelines, data in the cloud
 
 # Fanfiction project with Airflow and PostgreSQL and AWS
 
-This is a very fun project that showcase some of my knowledge about database, sql, Airflow and AWS. A short summery is that I web scrape fanfiction data and calculate KPIs using two different methods. This project can be viewed here: [Fanfiction project](https://github.com/pergran1/Airflow-fanfiction-get-data-and-KPIs)
+This is a very fun project that showcase some of my knowledge about database, sql, Airflow and AWS. A short summery is that I web scrape fanfiction data and calculate KPIs using two different methods. 
+**This project can be viewed here:** [Fanfiction project](https://github.com/pergran1/Airflow-fanfiction-get-data-and-KPIs)
 
+<br>
 
-### Endpoint for dirty text classification and streamlit app
+### Endpoint for dirty text classification and Streamlit app
 
-Another side project I did using the fanfiction data was to create a classification **endpoint** and **streamlit app** that classify if a text is sexual, which hypothetical could be used to prevent children from reading messegaes or texts that seems to contain sexual meaning. 
+Another side project I did using the fanfiction data was to create a classification **endpoint** and **Streamlit app** that classify if a text is sexual, which hypothetical could be used to prevent children from reading messages or texts that seems to contain sexual meaning.
 
 
 **The endpoint is here:** [endpoint classification](https://dirty-text-classification.herokuapp.com/docs#/)
