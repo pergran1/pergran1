@@ -6,7 +6,8 @@
 </h1>
 -->
 
-![title](titleimage.png)
+![welcome](https://user-images.githubusercontent.com/56206371/194715085-09e68553-c409-408c-8baa-7d8f4e5e6b25.PNG)
+
 
 ## About me
 
