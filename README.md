@@ -28,17 +28,27 @@ But the things that I have a passion for now is ETL pipelines, data in the cloud
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pergran1&layout=compact)](https://github.com/pergran1/github-readme-stats)
 
 
+
+
+
 # Fanfiction project with Airflow and PostgreSQL and AWS
 
-Write about web scraping, airflow and KPIs, aws and database
+This is a very fun project that showcase some of my knowledge about database, sql, Airflow and AWS. A short summery is that I web scrape fanfiction data and calculate KPIs using two different methods. This project can be viewed here: [Fanfiction project](https://github.com/pergran1/Airflow-fanfiction-get-data-and-KPIs)
+
 
 ### Endpoint for dirty text classification and streamlit app
 
-[Endpoint for textclassification](https://dirty-text-classification.herokuapp.com/docs#/)
+Another side project I did using the fanfiction data was to create a classification **endpoint** and **streamlit app** that classify if a text is sexual, which hypothetical could be used to prevent children from reading messegaes or texts that seems to contain sexual meaning. 
 
-[Streamlit app for text classification](https://pergran1-streamlit-app-for-text-classification-app-8asu6b.streamlitapp.com/)
 
-## Dashboards made using R and Flexdashboards
+**The endpoint is here:** [endpoint classification](https://dirty-text-classification.herokuapp.com/docs#/)
+
+**The streamlit app is here:**[Streamlit app for text classification](https://pergran1-streamlit-app-for-text-classification-app-8asu6b.streamlitapp.com/)
+
+
+
+
+# Dashboards made using R and Flexdashboards
 
 The two links below are to dashboards created in **R** 👨‍💻 using the packages **Shiny and Flexdashboard**. I have a huge experience with creating dashbords with **Superset, Qlik and data studio**
 
@@ -59,7 +69,7 @@ One of friends was active in figure skating and I noticed that he was on a [webs
 This project is very sentimental to me becuase it was the first one where I used Python to webscrape and I remeber how fun it was to see and collect data from a website! So this is where it all started ☺️
 
 
-## Projects analyzing data with **R**
+# Projects analyzing data with **R**
 These are some of the procjects that I made some years ago in R. These projects bring back fun memories 
 
 [Lund University and the data of published theses](https://pergranberg.netlify.app/post/lund/)<br> 
