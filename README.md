@@ -43,6 +43,9 @@ This is a very fun project that showcase some of my knowledge about database, sq
 
 **This project can be viewed here:** [Fanfiction project](https://github.com/pergran1/Airflow-fanfiction-get-data-and-KPIs)
 
+![194145272-c8a45e6e-da82-4fe9-98ee-2ad1499fa59e](https://user-images.githubusercontent.com/56206371/194760359-428b8efb-fa89-4cfd-914e-0934a025210d.png)
+
+
 <br>
 
 ### Endpoint for dirty text classification and Streamlit app
