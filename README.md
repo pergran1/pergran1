@@ -84,7 +84,7 @@ This project is very sentimental to me because it was the first one where I used
 <br>
 
 # Projects analyzing data with **R**
-These are some of the projects that I made some years ago in R. These projects bring back fun memories 
+These are some of the projects that I made some years ago in R. These projects bring back fun memories. The links below takes you to my external website so you can see the charts and data visualization, but all the code is stored here on Github: [R projects code](https://github.com/pergran1/projects-made-in-R)
 
 [Lund University and the data of published theses](https://pergranberg.netlify.app/post/lund/)<br> 
 The fantastic and fun Lund University was where I studied my master’s in finance and statistics. In this project I collected the data from [this website](https://lup.lub.lu.se/student-papers/search/student-papers/search/publication?limit=10&sort=year.desc) which have every theses made by students. I analyzed topics such as how many papers are published each year, how many authors are there, which faculty produces the most papers etc. **The plots and project is not refined**, I was going to go back and make it better but that never happened. 
