@@ -55,7 +55,7 @@ Another side project I did using the fanfiction data was to create a classificat
 
 **The endpoint is here:** [endpoint classification](https://dirty-text-classification.herokuapp.com/docs#/)
 
-**The streamlit app is here: **[Streamlit app for text classification](https://pergran1-streamlit-app-for-text-classification-app-8asu6b.streamlitapp.com/)
+**The streamlit app is here:** [Streamlit app for text classification](https://pergran1-streamlit-app-for-text-classification-app-8asu6b.streamlitapp.com/)
 
 <br>
 
